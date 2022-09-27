@@ -1,0 +1,11 @@
+.each-meal img {
+    width: 200px;
+}
+
+
+.btn-cart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 37%;
+}
